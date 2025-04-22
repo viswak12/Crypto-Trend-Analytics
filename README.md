@@ -1,5 +1,5 @@
-# Crypto-Trend-Analytics  
-# 📈 Cryptocurrency Trend Insights
+
+#📈 Cryptocurrency Trend Insights
 
 A visual data analysis project aimed at uncovering trends, volatility, and investment signals in the cryptocurrency market using historical pricing data and modern visualization techniques.
 
